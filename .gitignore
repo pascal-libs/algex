@@ -38,3 +38,5 @@ lib/
 # Application bundle for Mac OS
 *.app/
 *.conf
+
+/pkg/algexpkg.pas
